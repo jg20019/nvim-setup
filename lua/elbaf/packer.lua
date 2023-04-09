@@ -39,5 +39,6 @@ use {
     {'L3MON4D3/LuaSnip'},     -- Required
   }
 }
-
+    use('bakpakin/janet.vim')
+    use('Olical/conjure')
 end)
